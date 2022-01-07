@@ -39,6 +39,7 @@ BLE speedometer and GPS. \
 In microPython and C++ (for TWatch platform)
 
 ### [Active Dataset](https://github.com/KevinUTAT/active_data_set)
+![](res/ADS.png)\
 Computer vision data labelling program with a focus on active learning. \
 It provide basic class labeling also allows quickly screening and modifying existing labels (That might be auto generated) with some automatic label quality checkers.\
 With a “Task” system to streamline workflow of labelling so that a large labelling task can be broken down to sessions and clients to distribute the workload.
