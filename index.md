@@ -27,7 +27,7 @@ B.A.Sc in Computer Engineering
 
 ## Projects
 ### [Surviver](https://github.com/KevinUTAT/surviver_dot_IO)
-![](res/Sur.png)
+![](res/Sur.png)\
 A “Cheat” for the popular web game Surviv.io. \
 The program uses YOLO and SORT to recognize and track element on screen (players, trees, etc.) \
 and autofiring based on player locations, speed, and obstacles in between.
@@ -37,3 +37,8 @@ and autofiring based on player locations, speed, and obstacles in between.
 Microcontroller based open-source cycling computer. Support ESP32 systems,
 BLE speedometer and GPS. \
 In microPython and C++ (for TWatch platform)
+
+### [Active Dataset](https://github.com/KevinUTAT/active_data_set)
+Computer vision data labelling program with a focus on active learning. \
+It provide basic class labeling also allows quickly screening and modifying existing labels (That might be auto generated) with some automatic label quality checkers.\
+With a “Task” system to streamline workflow of labelling so that a large labelling task can be broken down to sessions and clients to distribute the workload.
