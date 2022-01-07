@@ -9,6 +9,7 @@ B.A.Sc in Computer Engineering
 - **C/C++**: Qt, Embedded driver
 - **Assembly**
 - **More**: Ruby (on rail), NSIS, CSS, RUST, JavaScript, MATLAB
+
 ### Digital system design:
 - System Verilog
 
@@ -23,3 +24,6 @@ B.A.Sc in Computer Engineering
 - Internal infrastructures
 - Detection and avoidance system
 - Robotic embedded systems
+
+## Projects
+### [Open Cycle](https://github.com/KevinUTAT/OpenCycle)
