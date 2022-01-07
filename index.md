@@ -17,6 +17,7 @@ B.A.Sc in Computer Engineering
 (May 2018 - August 2019)
 - Flight control and diagnostic system
 - Software intergrations
+
 ### *Software Engineer* at Drone Delivery Canada Crop.
 (May 2020 - Present)
 - Internal infrastructures
