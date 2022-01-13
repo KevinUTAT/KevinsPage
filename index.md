@@ -50,7 +50,7 @@ Geographic Information System based on OSM database in C++. \
 With graphical user interface and capability of solving pathfinding and travelling currier problem.
 
 ### University of Toronto Explorer 2B
-![](res/utx.png)
+![](res/utx.png) \
 Fix wing Unmanned Aerial System for University of Toronto Aerospace Team. \
 Equipped with automatic flight controller, computer vision payload system and long-range communication systems. \
 Project achievement:
