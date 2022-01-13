@@ -48,3 +48,11 @@ With a “Task” system to streamline workflow of labelling so that a large lab
 ![](res/297.png)
 Geographic Information System based on OSM database in C++. \
 With graphical user interface and capability of solving pathfinding and travelling currier problem.
+
+### University of Toronto Explorer 2B
+![](res/utx.png)
+Fix wing Unmanned Aerial System for University of Toronto Aerospace Team. \
+Equipped with automatic flight controller, computer vision payload system and long-range communication systems. \
+Project achievement:
+- Unmanned System Canada Student UAS Competition: 1st place Overall (2017)
+- Association for Unmanned Vehicle Systems International Competition: 2nd place Mission Performance (2015)
