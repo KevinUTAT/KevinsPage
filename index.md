@@ -14,16 +14,16 @@ B.A.Sc in Computer Engineering
 - System Verilog
 
 ## Work experience
-### *Co-op Software Engineer* at Drone Delivery Canada Crop.
-(May 2018 - August 2019)
-- Flight control and diagnostic system
-- Software intergrations
-
 ### *Software Engineer* at Drone Delivery Canada Crop.
 (May 2020 - Present)
 - Internal infrastructures
 - Detection and avoidance system
 - Robotic embedded systems
+
+### *Co-op Software Engineer* at Drone Delivery Canada Crop.
+(May 2018 - August 2019)
+- Flight control and diagnostic system
+- Software intergrations
 
 ## Projects
 ### [Surviver](https://github.com/KevinUTAT/surviver_dot_IO)
@@ -47,7 +47,8 @@ With a “Task” system to streamline workflow of labelling so that a large lab
 ### [Geographic Information System](https://www.youtube.com/watch?v=L7z_F1HgqtQ&ab_channel=KevinXu)
 ![](res/297.png)
 Geographic Information System based on OSM database in C++. \
-With graphical user interface and capability of solving pathfinding and travelling currier problem.
+With graphical user interface and capability of solving pathfinding and travelling currier problem. \
+ECE297 project.
 
 ### University of Toronto Explorer 2B
 ![](res/utx.png) \
