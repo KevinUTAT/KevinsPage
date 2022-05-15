@@ -10,7 +10,7 @@ B.A.Sc in Computer Engineering
 - **Assembly**
 - **More**: Ruby (on rail), NSIS, CSS, RUST, JavaScript, MATLAB
 
-### Digital system design:
+### Digital system HDL:
 - System Verilog
 
 ## Work experience
@@ -57,3 +57,13 @@ Equipped with automatic flight controller, computer vision payload system and lo
 Project achievement:
 - Unmanned System Canada Student UAS Competition: 1st place Overall (2017)
 - Association for Unmanned Vehicle Systems International Competition: 2nd place Mission Performance (2015)
+
+## None-Computer experience and certificates :)
+### Propane ROT
+Record of Training for construction heater and torches up to 400,000 BTU. By Canadian Propane Association.
+### Drone Pilot Certificate - Advanced
+Transport Canada Drone Pilot Certificate - Advanced Operation
+### ROC-A
+Restricted Operator Certificate with Aeronautical Qualification
+### Smart Serve
+Responsible Alcohol Beverage Sales & Service Trained. Managerial experience in licensed Beverage Service.
