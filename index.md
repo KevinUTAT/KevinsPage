@@ -15,7 +15,7 @@ B.A.Sc in Computer Engineering
 
 ## Work experience
 ### *Software Engineer* at Drone Delivery Canada Crop.
-(May 2020 - Present)
+(May 2020 - May 2022)
 - Internal infrastructures
 - Detection and avoidance system
 - Robotic embedded systems
