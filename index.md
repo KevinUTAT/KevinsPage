@@ -14,16 +14,18 @@ B.A.Sc in Computer Engineering
 - System Verilog
 
 ## Work experience
-### **Software Application Engineer** at Intel
+### *Software Application Engineer* at Intel
 (May 2022 - Present)
 - Programable Solution Group
-### **Software Engineer** at Drone Delivery Canada Crop.
+- HLD team
+
+### *Software Engineer* at Drone Delivery Canada Crop.
 (May 2020 - May 2022)
 - Internal infrastructures
 - Detection and avoidance system
 - Robotic embedded systems
 
-### **Co-op Software Engineer** at Drone Delivery Canada Crop.
+### *Co-op Software Engineer* at Drone Delivery Canada Crop.
 (May 2018 - August 2019)
 - Flight control and diagnostic system
 - Software intergrations
